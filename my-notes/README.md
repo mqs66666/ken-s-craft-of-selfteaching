@@ -1,3 +1,3 @@
 # Ken notes
 
-- Start here
+- kickoff
